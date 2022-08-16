@@ -1,8 +1,8 @@
-.MySelect_box {
+.MySelect__box {
     margin-top: 50px;
     width: 100%;
     display: flex;
-    justify-content:start;
+    justify-content: start;
 }
 .MySelect {
     margin-left: 40px;
